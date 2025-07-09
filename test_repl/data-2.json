@@ -1,0 +1,16 @@
+{
+    "device": {
+        "id": "xy92zqp987",
+        "type": "3DPrinter"
+    },
+    "timestamp": "2022-07-25T08:30:32.000Z",
+    "country": "germany",
+    "city": "berlin",
+    "area": "industrial-park-a",
+    "factory": "alpha-factory",
+    "section": "section-3",
+    "data": {
+        "status": "warning",
+        "temperature": 75
+    }
+}

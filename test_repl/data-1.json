@@ -1,0 +1,8 @@
+{
+    "deviceID": "xy92zqp987",
+    "deviceType": "3DPrinter",
+    "timestamp": 1658765432000,
+    "location": "germany/berlin/industrial-park-a/alpha-factory/section-3",
+    "operationStatus": "warning",
+    "temp": 75
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "101",
+    "name": {
+      "first": "Aditya",
+      "last": "Kumar"
+    },
+    "contact": {
+      "email_address": "aditya.kumar2420@gmail.com"
+    },
+    "dept": "Tech"
+  }
+]

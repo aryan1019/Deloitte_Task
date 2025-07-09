@@ -1,0 +1,14 @@
+[
+  {
+    "employee_id": 101,
+    "name": "Aryan Raj",
+    "email": "aryan.raj01999@gmail.com",
+    "department": "Technology"
+  },
+  {
+    "employee_id": 101,
+    "name": "Aditya Kumar",
+    "email": "aditya.kumar2420@gmail.com",
+    "department": "Technology"
+  }
+]
